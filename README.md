@@ -1,7 +1,7 @@
-## CarRentX Landing_page
+# CarRentX Landing_page
  A modern, responsive landing page for **CarRentX**, a car rental platform that connects vehicle owners with renters.This page showcases services, features, and contact options.
  
- # Features
+ ## Features
 
 - **Responsive Header Navigation** with Sign In button
 - **Hero Section** with bold title and call-to-action buttons
@@ -15,9 +15,15 @@
 - **Responsive Layout** for mobile, tablet, and desktop
 
 
- # Technologies Used
+ ## Technologies Used
 
 - **HTML5**
 - **Tailwind CSS**
 - **Font Awesome**
 - **Responsive Design Techniques**
+
+## Output Preview 
+https://malaikaramzan52.github.io/Task_-2-/
+
+
+
