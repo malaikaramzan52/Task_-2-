@@ -21,6 +21,13 @@
 - **Tailwind CSS**
 - **Font Awesome**
 - **Responsive Design Techniques**
+  
+  ##  Quick Start
+
+1. Clone or download the repository
+2. Open `index.html` in your browser
+3. Enter email & password and click **Sign In**
+4. Check the browser console to see the logged input
 
 ## Output Preview 
 https://malaikaramzan52.github.io/Task_-2-/
