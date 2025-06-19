@@ -3,3 +3,12 @@
 @theme{
     --font-c:"Roboto", sans-serif;
 }
+
+@layer components{
+    .img{
+        @apply h-full w-full object-contain;
+    }
+    .div{
+        @apply border-2 border-gray-500 shadow-2xl rounded-xl size-72 bg-gray-800;
+    }
+}
